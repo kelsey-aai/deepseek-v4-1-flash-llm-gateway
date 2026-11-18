@@ -1,0 +1,13 @@
+{
+  "name": "deepseek-v4-1-flash-llm-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Call DeepSeek V4.1 Flash through AssemblyAI LLM Gateway with the OpenAI SDK",
+  "scripts": {
+    "quickstart": "node quickstart.mjs"
+  },
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
